@@ -1,2 +1,2 @@
-Modul 1 Pemrograman web 
-Membuat Desain Website sederhana
+Modul 2 Pemrograman web 
+Membuat Kalkulator dan To-do-list App Responsive
